@@ -8,7 +8,7 @@ function App() {
     <div className='min-h-screen flex bg-gradient-to-b from-[#01f8fd] via-[#0abebf] to-[#fa6970] justify-center items-center'>
       <div className='justify-center '>
       <div className="justify-center min-h-full flex p-6">
-      <h1 className='font-extrabold text-gray-800 text-6xl sm:text-xl'>EM CONSTRUÇÃO</h1>
+      <h1 className='font-extrabold text-gray-800 text-2xl sm:text-6xl'>EM CONSTRUÇÃO</h1>
       </div>
       <div className="flex items-center gap-4 justify-center">
         
